@@ -1,0 +1,1271 @@
+fileFormatVersion: 2
+guid: 3e97cd17fe66b234fbd444931a6df97d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2780155693110083650
+    second: Free-Different-Weapon-RPG-Icons2_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 963
+        width: 159
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3ee1674ae593847a181b2a01c350bb
+      internalID: -513591062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 962
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99452c81861a95d4c8c8eb94b632c8e3
+      internalID: -1526983830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 962
+        width: 161
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b2bda28b94d3b48ab96b12f39da1b8
+      internalID: -1666079302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 962
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb843d85f9819147975580bb82884b1
+      internalID: -1061039103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_4
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 962
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc571e06e4cbc654d82b1906c2f33c83
+      internalID: -1196872532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 963
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0926dda590e82e48a3e797625531c8a
+      internalID: 56781419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_6
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 964
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4481b14031eb44388bebdbec1150ab
+      internalID: -482614208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_7
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 963
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269644d8736b94f40ac73a37293e22f4
+      internalID: -1276941401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_8
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 963
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b09321c0753b0e4e9876bc1631be8d7
+      internalID: -1721797238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_9
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 963
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eba5d4f564d74a4494f909dc7a3a857
+      internalID: -29961555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 739
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d9a163584f07a4aa9ffef9a01a2777
+      internalID: 350532407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 739
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96025fb4b1695c84a95bf0ef9cd679cb
+      internalID: -156121547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 739
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab325e6b021adc45978b9d3d4d56a04
+      internalID: 1780956730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_13
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 739
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8775322500a6854dac120f9e6671371
+      internalID: 1894684966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_14
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 739
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008829f7e49981d44b744c54042e8686
+      internalID: 1912230426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_15
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 739
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ce8b30e6d171547a17894637755618
+      internalID: -112966556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_16
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 739
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a967d302bca774c975b129ba9d47af
+      internalID: -322804639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_17
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 739
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cb13085e37c6540b96a1246c61c5e6
+      internalID: 1691289282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_18
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 739
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a64d669ca7bf24b83b1c57d153d312
+      internalID: -1312443947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_19
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 739
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0d1d37e4d235649858b1a55a0f44ac
+      internalID: -1040993768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 520
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58e2a1a3656269439774ee69355882e
+      internalID: -84235789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 519
+        width: 163
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4745c287ca5244b399d76094511d3
+      internalID: 1042293179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 520
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b20bb315688e445bceec4850d8dfa3
+      internalID: -611416246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_23
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 520
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a564bb5d68cb19a4194690806b3011b8
+      internalID: -1581582169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_24
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 519
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4951327101d56409685eededdd5fae
+      internalID: -1349650619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_25
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 518
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548a0705cc23b6c4285c9463141dacc3
+      internalID: -1200358994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_26
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 519
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2129a5014b775d54bad85f26add8b05f
+      internalID: -1951888685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_27
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 520
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761739692eaa4004e9ec4dd14f3a16a3
+      internalID: 1538252203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_28
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 519
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199a348250e18884aaaf2f7822032b19
+      internalID: -712463864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_29
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 519
+        width: 159
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d13e3a8db22f94d8c8cf83e61b76ef
+      internalID: -452867711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 299
+        width: 161
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db420d37688f205439a05f56febdc1a2
+      internalID: 961392367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 299
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a69684b108c0d1439414c88f92cdcbf
+      internalID: -349639962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_32
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 298
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752eb7d014a534c4aafd13604ea4c4c0
+      internalID: 161271948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_33
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 297
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab76daa16415124889d3c5cfba70f89
+      internalID: 92492610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_34
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 297
+        width: 157
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893000385f7629d4c919fe3041737bde
+      internalID: -1969448987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_35
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 296
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcf642520948244d8312bea83590a91
+      internalID: -1123925343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_36
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 297
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a285cb3bbcfce449899e0e8ed3c404
+      internalID: -1335915656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_37
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 298
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cb5daeb48d40947a3fe6c4959166c0
+      internalID: -980280529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_38
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 297
+        width: 158
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e648f35a260734b8a55d79a56ed946
+      internalID: 1984479109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_39
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 297
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0df0ad25108c604f98ffca888f98b4f
+      internalID: 1171408556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_40
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 77
+        width: 158
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a592dcd6a5b4cc4ba37e233c617b99f
+      internalID: -295772830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 75
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f56c5fb6916204aa5394850a6116ea
+      internalID: -1599284841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_42
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 75
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c923d24e1e1cf2f4cbb4198b1bfc4ed3
+      internalID: 167190432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_43
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 77
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ad9123361f58848b0e09145e077359
+      internalID: 2120333756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_44
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 75
+        width: 157
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f86721f202a75a4f8a0d7688c615d72
+      internalID: 2076006542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_45
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 76
+        width: 164
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94c3f5d614926e43aa48f23cf230442
+      internalID: 1009902946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_46
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 76
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aed3b60a5b2824eb0669dfa2151c35
+      internalID: 120186140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_47
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 77
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1b5e8b36666ef4d8945693353bd041
+      internalID: -482652411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_48
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 76
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb3e47ee6ddf3f4ba1aae7f0b028fea
+      internalID: -1469899366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Different-Weapon-RPG-Icons2_49
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 77
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1c74de03c002b43b3b3099ba4c3b5a
+      internalID: -2090235489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: be5ee5807d3ef334f914f5671bd068ca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Free-Different-Weapon-RPG-Icons2_0: -513591062
+      Free-Different-Weapon-RPG-Icons2_1: -1526983830
+      Free-Different-Weapon-RPG-Icons2_10: 350532407
+      Free-Different-Weapon-RPG-Icons2_11: -156121547
+      Free-Different-Weapon-RPG-Icons2_12: 1780956730
+      Free-Different-Weapon-RPG-Icons2_13: 1894684966
+      Free-Different-Weapon-RPG-Icons2_14: 1912230426
+      Free-Different-Weapon-RPG-Icons2_15: -112966556
+      Free-Different-Weapon-RPG-Icons2_16: -322804639
+      Free-Different-Weapon-RPG-Icons2_17: 1691289282
+      Free-Different-Weapon-RPG-Icons2_18: -1312443947
+      Free-Different-Weapon-RPG-Icons2_19: -1040993768
+      Free-Different-Weapon-RPG-Icons2_2: -1666079302
+      Free-Different-Weapon-RPG-Icons2_20: -84235789
+      Free-Different-Weapon-RPG-Icons2_21: 1042293179
+      Free-Different-Weapon-RPG-Icons2_22: -611416246
+      Free-Different-Weapon-RPG-Icons2_23: -1581582169
+      Free-Different-Weapon-RPG-Icons2_24: -1349650619
+      Free-Different-Weapon-RPG-Icons2_25: -1200358994
+      Free-Different-Weapon-RPG-Icons2_26: -1951888685
+      Free-Different-Weapon-RPG-Icons2_27: 1538252203
+      Free-Different-Weapon-RPG-Icons2_28: -712463864
+      Free-Different-Weapon-RPG-Icons2_29: -452867711
+      Free-Different-Weapon-RPG-Icons2_3: -1061039103
+      Free-Different-Weapon-RPG-Icons2_30: 961392367
+      Free-Different-Weapon-RPG-Icons2_31: -349639962
+      Free-Different-Weapon-RPG-Icons2_32: 161271948
+      Free-Different-Weapon-RPG-Icons2_33: 92492610
+      Free-Different-Weapon-RPG-Icons2_34: -1969448987
+      Free-Different-Weapon-RPG-Icons2_35: -1123925343
+      Free-Different-Weapon-RPG-Icons2_36: -1335915656
+      Free-Different-Weapon-RPG-Icons2_37: -980280529
+      Free-Different-Weapon-RPG-Icons2_38: 1984479109
+      Free-Different-Weapon-RPG-Icons2_39: 1171408556
+      Free-Different-Weapon-RPG-Icons2_4: -1196872532
+      Free-Different-Weapon-RPG-Icons2_40: -295772830
+      Free-Different-Weapon-RPG-Icons2_41: -1599284841
+      Free-Different-Weapon-RPG-Icons2_42: 167190432
+      Free-Different-Weapon-RPG-Icons2_43: 2120333756
+      Free-Different-Weapon-RPG-Icons2_44: 2076006542
+      Free-Different-Weapon-RPG-Icons2_45: 1009902946
+      Free-Different-Weapon-RPG-Icons2_46: 120186140
+      Free-Different-Weapon-RPG-Icons2_47: -482652411
+      Free-Different-Weapon-RPG-Icons2_48: -1469899366
+      Free-Different-Weapon-RPG-Icons2_49: -2090235489
+      Free-Different-Weapon-RPG-Icons2_5: 56781419
+      Free-Different-Weapon-RPG-Icons2_50: -1017128007
+      Free-Different-Weapon-RPG-Icons2_6: -482614208
+      Free-Different-Weapon-RPG-Icons2_7: -1276941401
+      Free-Different-Weapon-RPG-Icons2_8: -1721797238
+      Free-Different-Weapon-RPG-Icons2_9: -29961555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

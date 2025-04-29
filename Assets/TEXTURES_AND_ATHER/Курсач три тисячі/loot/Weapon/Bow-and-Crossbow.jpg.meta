@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: decb9ce510e15b04faeb7f2d85b210a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5384392894223143491
+    second: Bow-and-Crossbow_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 963
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c56fa5df9dab204fbf16ab1d060317c
+      internalID: -1964086101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 963
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023b1e51c1b57774cb1f21a11896be4b
+      internalID: -1978937103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 963
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f369ce8743889543aaf180cb332f998
+      internalID: -1357761986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_3
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 963
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6732c0925cb68ed448c0ff8ecb2d7cfb
+      internalID: 1092199555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 963
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946f7fbf3d4f596489d6dd73540a5fb1
+      internalID: 949553659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_5
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 963
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281994c39901b4544804cecc695890dd
+      internalID: -1992305199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_6
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 963
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4002431fa844e9a4ebdea1e67c6a8b2a
+      internalID: 1596139775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_7
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 963
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae76354afa82a247822daaf7b3b8ea5
+      internalID: -1553575152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_8
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 963
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a16e332d7239b34b9171a9b9eefb44c
+      internalID: 1514317022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_9
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 963
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b51e86a39bb3d342ae63cc409330862
+      internalID: -1723120129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 741
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2197cff198f849a479356ea6f6aff19a
+      internalID: 325149119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 741
+        width: 159
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1832660f5d90ee14aa70f97bb3d76121
+      internalID: -1054301423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 741
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4ecc596547e9b44a21e394d513a825
+      internalID: -1209154822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 741
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0edf94477a3c3340869313d5bd38855
+      internalID: 251383388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_14
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 741
+        width: 158
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f9cbf12111ce145b1979aec13e0733
+      internalID: 1351815584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_15
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 741
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3581085b79f732d41a36a409e5dca1b6
+      internalID: 1286449619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_16
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 741
+        width: 159
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466dca17439789a4aaf2b9dd4587f417
+      internalID: 682814934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_17
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 742
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be48621296ce44e4b83c0f15c20ce7e4
+      internalID: 279469997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_18
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 742
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aef347f315a2aa4f9df88c0197f948c
+      internalID: -107585927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_19
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 741
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcceee92b79fc524cb21b16f7f221510
+      internalID: 1672194211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 519
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bced8ac7349b649800467a1efa8dca
+      internalID: -194607511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 520
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cc0a7d0ec8c7c4ab93fc016d0c763c
+      internalID: -1347883384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_22
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 520
+        width: 159
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db59263e734954948b695db64555416d
+      internalID: -294106814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 519
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f96dd7db5cf7294798cbe251ff3aa90
+      internalID: 397187109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_24
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 520
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb8d72b2460a0e4b9c9f24c055339fc
+      internalID: -1463883807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_25
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 519
+        width: 159
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb11a2be8743c2f46950fff9d11d5253
+      internalID: 149841304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_26
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 519
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a81cfb26c9f76340a499d37b2d1c047
+      internalID: -2013966761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_27
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 519
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7181d05704987fe4f9679f915ca43ac1
+      internalID: -733733131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_28
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 519
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b8da208610ea74dbefc1b32d73f913
+      internalID: -1441112220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_29
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 519
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ecba6e2b3fe104c84bdd190f06a473
+      internalID: -375711697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 297
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccc8c97e8cf5b74cab500a0087b07c8
+      internalID: 1078957262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 297
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f767044efed417347828458916346992
+      internalID: 562932494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 297
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75e78581513d11489ae4c8337fced41
+      internalID: 1340916064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_33
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 298
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218603ba24b3e0f489a71db979a263e5
+      internalID: 2000964679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_34
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 297
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2942c3531357d714398ed0af92465280
+      internalID: 1796677941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_35
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 297
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728c22ad36441134392c60db2450cc91
+      internalID: 2022695277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_36
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 297
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5cc3840ee917c45a50cd257bec2fd5
+      internalID: 1235573546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_37
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 297
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028f1956e52e9c4eae5e561fca49f0c
+      internalID: -867144073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_38
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 297
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e46e2f97019df84aae61652b079affb
+      internalID: -2007642568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_39
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 297
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf2b9aee0f98b140a71e348bcc8b924
+      internalID: -146768149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae9a6cd76f0714599f4bbe605441fb
+      internalID: -1769753109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_41
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 75
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148c5b6085a94c443bd81d1e39c74d6e
+      internalID: -402219095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_42
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 76
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a3c2e7c30c6544495847352abbcf24
+      internalID: -194676622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_43
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 75
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43e864934a46a74ab1b458a58bf74dd
+      internalID: -267433394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_44
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 75
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfd6c60848c43f438fae54dd902dbc5
+      internalID: 1097375357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_45
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 75
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fcf074d08b9864a8329ab3cd211ced
+      internalID: -1039496612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_46
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 75
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2821d8cde10e8f4d94eca5facd29c10
+      internalID: -1231356847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_47
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 75
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696d2a260f8adbc4ba717fe8ad40d02b
+      internalID: 625823043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_48
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 75
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f126442ffa1444aa6a29719bddc59
+      internalID: 384315430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow-and-Crossbow_49
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 75
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93252ca4013482641be199a47c8c8b4d
+      internalID: -471573241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 24d595c44c4ff7f428b15f4449664cc7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bow-and-Crossbow_0: -1964086101
+      Bow-and-Crossbow_1: -1978937103
+      Bow-and-Crossbow_10: 325149119
+      Bow-and-Crossbow_11: -1054301423
+      Bow-and-Crossbow_12: -1209154822
+      Bow-and-Crossbow_13: 251383388
+      Bow-and-Crossbow_14: 1351815584
+      Bow-and-Crossbow_15: 1286449619
+      Bow-and-Crossbow_16: 682814934
+      Bow-and-Crossbow_17: 279469997
+      Bow-and-Crossbow_18: -107585927
+      Bow-and-Crossbow_19: 1672194211
+      Bow-and-Crossbow_2: -1357761986
+      Bow-and-Crossbow_20: -194607511
+      Bow-and-Crossbow_21: -1347883384
+      Bow-and-Crossbow_22: -294106814
+      Bow-and-Crossbow_23: 397187109
+      Bow-and-Crossbow_24: -1463883807
+      Bow-and-Crossbow_25: 149841304
+      Bow-and-Crossbow_26: -2013966761
+      Bow-and-Crossbow_27: -733733131
+      Bow-and-Crossbow_28: -1441112220
+      Bow-and-Crossbow_29: -375711697
+      Bow-and-Crossbow_3: 1092199555
+      Bow-and-Crossbow_30: 1078957262
+      Bow-and-Crossbow_31: 562932494
+      Bow-and-Crossbow_32: 1340916064
+      Bow-and-Crossbow_33: 2000964679
+      Bow-and-Crossbow_34: 1796677941
+      Bow-and-Crossbow_35: 2022695277
+      Bow-and-Crossbow_36: 1235573546
+      Bow-and-Crossbow_37: -867144073
+      Bow-and-Crossbow_38: -2007642568
+      Bow-and-Crossbow_39: -146768149
+      Bow-and-Crossbow_4: 949553659
+      Bow-and-Crossbow_40: -1769753109
+      Bow-and-Crossbow_41: -402219095
+      Bow-and-Crossbow_42: -194676622
+      Bow-and-Crossbow_43: -267433394
+      Bow-and-Crossbow_44: 1097375357
+      Bow-and-Crossbow_45: -1039496612
+      Bow-and-Crossbow_46: -1231356847
+      Bow-and-Crossbow_47: 625823043
+      Bow-and-Crossbow_48: 384315430
+      Bow-and-Crossbow_49: -471573241
+      Bow-and-Crossbow_5: -1992305199
+      Bow-and-Crossbow_6: 1596139775
+      Bow-and-Crossbow_7: -1553575152
+      Bow-and-Crossbow_8: 1514317022
+      Bow-and-Crossbow_9: -1723120129
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 57be8a0dddef7d44dac72f88b6e45ffa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1435967986344070330
+    second: BODY_animation_ELF_0
+  - first:
+      213: 7215444448201320632
+    second: BODY_animation_ELF_1
+  - first:
+      213: 5522774563357946817
+    second: BODY_animation_ELF_2
+  - first:
+      213: -515616312646461725
+    second: BODY_animation_ELF_3
+  - first:
+      213: 7267296371911594594
+    second: BODY_animation_ELF_4
+  - first:
+      213: -9092128784425254723
+    second: BODY_animation_ELF_5
+  - first:
+      213: -5991239884018216321
+    second: BODY_animation_ELF_6
+  - first:
+      213: -3141982194532512009
+    second: BODY_animation_ELF_7
+  - first:
+      213: -4255557491978053875
+    second: BODY_animation_ELF_8
+  - first:
+      213: -72283330681918627
+    second: BODY_animation_ELF_9
+  - first:
+      213: -4565970683166396771
+    second: BODY_animation_ELF_10
+  - first:
+      213: 3276040261301912925
+    second: BODY_animation_ELF_11
+  - first:
+      213: 4729021798322667647
+    second: BODY_animation_ELF_12
+  - first:
+      213: 9036880542606217510
+    second: BODY_animation_ELF_13
+  - first:
+      213: 8799760811093589301
+    second: BODY_animation_ELF_14
+  - first:
+      213: 8409107236714390453
+    second: BODY_animation_ELF_15
+  - first:
+      213: -5114742284957736856
+    second: BODY_animation_ELF_16
+  - first:
+      213: 3806933544994870080
+    second: BODY_animation_ELF_17
+  - first:
+      213: 6193124248814225309
+    second: BODY_animation_ELF_18
+  - first:
+      213: 3234043357096496326
+    second: BODY_animation_ELF_19
+  - first:
+      213: -7704668915839127196
+    second: BODY_animation_ELF_20
+  - first:
+      213: 983703593221849996
+    second: BODY_animation_ELF_21
+  - first:
+      213: 1996699608319829139
+    second: BODY_animation_ELF_22
+  - first:
+      213: -5974625325907116723
+    second: BODY_animation_ELF_23
+  - first:
+      213: 506785588618083587
+    second: BODY_animation_ELF_24
+  - first:
+      213: -2895485845855418772
+    second: BODY_animation_ELF_25
+  - first:
+      213: -2961877107526411470
+    second: BODY_animation_ELF_26
+  - first:
+      213: 587716977885671501
+    second: BODY_animation_ELF_27
+  - first:
+      213: 6973950055622305809
+    second: BODY_animation_ELF_28
+  - first:
+      213: -6423086290784097212
+    second: BODY_animation_ELF_29
+  - first:
+      213: -3944019590890238470
+    second: BODY_animation_ELF_30
+  - first:
+      213: 2552499185037107188
+    second: BODY_animation_ELF_31
+  - first:
+      213: -5818149781524865774
+    second: BODY_animation_ELF_32
+  - first:
+      213: -8243737018906354662
+    second: BODY_animation_ELF_33
+  - first:
+      213: 7457948901816151465
+    second: BODY_animation_ELF_34
+  - first:
+      213: 4336445021676619574
+    second: BODY_animation_ELF_35
+  - first:
+      213: 1867942042392139139
+    second: BODY_animation_ELF_36
+  - first:
+      213: -2260532955117324291
+    second: BODY_animation_ELF_37
+  - first:
+      213: 2384106098799663048
+    second: BODY_animation_ELF_38
+  - first:
+      213: 4249865385493563006
+    second: BODY_animation_ELF_39
+  - first:
+      213: 5008471549978172636
+    second: BODY_animation_ELF_40
+  - first:
+      213: 7054889534010895127
+    second: BODY_animation_ELF_41
+  - first:
+      213: -94954508356288083
+    second: BODY_animation_ELF_42
+  - first:
+      213: -2407009328101715394
+    second: BODY_animation_ELF_43
+  - first:
+      213: 5764586023094986435
+    second: BODY_animation_ELF_44
+  - first:
+      213: -4230906179305400461
+    second: BODY_animation_ELF_45
+  - first:
+      213: 1996838315479182886
+    second: BODY_animation_ELF_46
+  - first:
+      213: 4441767891680473730
+    second: BODY_animation_ELF_47
+  - first:
+      213: -2350455003564189867
+    second: BODY_animation_ELF_48
+  - first:
+      213: 1636659780084535828
+    second: BODY_animation_ELF_49
+  - first:
+      213: -7859699933265206882
+    second: BODY_animation_ELF_50
+  - first:
+      213: -5627228043069019295
+    second: BODY_animation_ELF_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BODY_animation_ELF_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 193
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc0fd686459de310800000000000000
+      internalID: 1435967986344070330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8aa9f1f78622460800000000000000
+      internalID: 7215444448201320632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c373875436d4ac40800000000000000
+      internalID: 5522774563357946817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e69f4c02b928d8f0800000000000000
+      internalID: -515616312646461725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 191
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2629645eb8f9ad460800000000000000
+      internalID: 7267296371911594594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db08a30fa0542d180800000000000000
+      internalID: -9092128784425254723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7211f48117dadca0800000000000000
+      internalID: -5991239884018216321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 191
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe894c47df6564d0800000000000000
+      internalID: -3141982194532512009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 191
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d075569020931f4c0800000000000000
+      internalID: -4255557491978053875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 191
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ba58791b23ffef0800000000000000
+      internalID: -72283330681918627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ee40fead962a0c0800000000000000
+      internalID: -4565970683166396771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_11
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5547cca245d67d20800000000000000
+      internalID: 3276040261301912925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_12
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f700a18254cd0a140800000000000000
+      internalID: 4729021798322667647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 129
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621deab59f2796d70800000000000000
+      internalID: 9036880542606217510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 129
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53df2a5a5d70f1a70800000000000000
+      internalID: 8799760811093589301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 129
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3278a7a7623b470800000000000000
+      internalID: 8409107236714390453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 129
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860ac6badf8c409b0800000000000000
+      internalID: -5114742284957736856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 129
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04310f0a3e1f4d430800000000000000
+      internalID: 3806933544994870080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 129
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d970e6411b562f550800000000000000
+      internalID: 6193124248814225309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 129
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccc2ff6c41a1ec20800000000000000
+      internalID: 3234043357096496326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 129
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4613a6f2174831590800000000000000
+      internalID: -7704668915839127196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_21
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 129
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c838346c431d6ad00800000000000000
+      internalID: 983703593221849996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 129
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394a01df6b3b5bb10800000000000000
+      internalID: 1996699608319829139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_23
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 129
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4df047cbedd51da0800000000000000
+      internalID: -5974625325907116723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_24
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 129
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d3edacec6780700800000000000000
+      internalID: 506785588618083587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_25
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 129
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66cd91d6fa21d7d0800000000000000
+      internalID: -2895485845855418772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bd681a67c45e6d0800000000000000
+      internalID: -2961877107526411470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40775f3a7df72800800000000000000
+      internalID: 587716977885671501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118eea240a278c060800000000000000
+      internalID: 6973950055622305809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ce12cac0d9cd6a0800000000000000
+      internalID: -6423086290784097212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd4ec114170449c0800000000000000
+      internalID: -3944019590890238470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_31
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff5c9d2c7c4c6320800000000000000
+      internalID: 2552499185037107188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_32
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d913e7997c14fa0800000000000000
+      internalID: -5818149781524865774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_33
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c5956cbdc589d80800000000000000
+      internalID: -8243737018906354662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_34
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad24c52305ff7760800000000000000
+      internalID: 7457948901816151465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_35
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637cb0195c52e2c30800000000000000
+      internalID: 4336445021676619574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_36
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3851dc904634ce910800000000000000
+      internalID: 1867942042392139139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_37
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7fa2f0149f0a0e0800000000000000
+      internalID: -2260532955117324291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_38
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7dbc58ddb061120800000000000000
+      internalID: 2384106098799663048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_39
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7682952d0e8afa30800000000000000
+      internalID: 4249865385493563006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc5914b65aa18540800000000000000
+      internalID: 5008471549978172636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b275c17a008e160800000000000000
+      internalID: 7054889534010895127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da10a93b067aeaef0800000000000000
+      internalID: -94954508356288083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32127bd4c5989ed0800000000000000
+      internalID: -2407009328101715394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c622c7227cefff40800000000000000
+      internalID: 5764586023094986435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_45
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3771f780f3dc845c0800000000000000
+      internalID: -4230906179305400461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ea6044ed136bb10800000000000000
+      internalID: 1996838315479182886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_47
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282b95e2d5454ad30800000000000000
+      internalID: 4441767891680473730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_48
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5575404a0a1816fd0800000000000000
+      internalID: -2350455003564189867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_49
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4129b1a066596b610800000000000000
+      internalID: 1636659780084535828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_50
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91e09c9d8cbce290800000000000000
+      internalID: -7859699933265206882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_ELF_51
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b21ceb8e118e1b0800000000000000
+      internalID: -5627228043069019295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

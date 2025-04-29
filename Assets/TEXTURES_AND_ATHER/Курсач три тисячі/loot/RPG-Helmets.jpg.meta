@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: 960b853f0e0b9dd42bcc9c441f8e7c6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7546470136555075899
+    second: RPG-Helmets_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG-Helmets_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 962
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0883a839bdd34194e961de4550ecf
+      internalID: 1779652413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 962
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f8b113df7eacc4b98351c3f6e27faa
+      internalID: 1919345330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 962
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433f76172ada9df49bafc1e5c257ead6
+      internalID: -1913632473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 962
+        width: 159
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32b1f4c03dd9a84b92cb658f5912ab5
+      internalID: -369152622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_4
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 962
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27efe63a33c06a439656b3543a74008
+      internalID: 559306391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_5
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 961
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f37010c851ac164681e92c350b9f2d4
+      internalID: -1807421354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_6
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 962
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519216e76beb67a429026dfded8140ab
+      internalID: 1167868043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_7
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 962
+        width: 159
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53571e475f6f99f479f91322ad04eef3
+      internalID: 1199393885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_8
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 962
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e20a0dbf16e48241a6205c2a4100fe1
+      internalID: 1250771996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_9
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 962
+        width: 158
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf51e0f56e3eb54ea62c321d03f0ed1
+      internalID: -464811421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 743
+        width: 158
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6add180aef7aa749a9ca8702738b41b
+      internalID: -359147073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 743
+        width: 161
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5257682169b8c4595bda6bd9a40d40
+      internalID: -355201983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 743
+        width: 161
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b245f7b6861db534a8c7911d0a8a5947
+      internalID: 681642493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_13
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 743
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab7e634cafaab64eaa3af315cf28dbb
+      internalID: 1800758622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_14
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 743
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3b34dc0c7372946b1dfe28aa93f3c6
+      internalID: 149228947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_15
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 744
+        width: 159
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911ea4a8e672afc4090d45e2a1371d99
+      internalID: 1667265065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_16
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 743
+        width: 161
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e6b700ab317ba4f927522cb7629dbf
+      internalID: -1689534808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_17
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 743
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e99c1c64f100fb47b8059093d6da87b
+      internalID: 1774925624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_18
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 743
+        width: 158
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1ed735d42c7c74890d82d9d2592c04
+      internalID: -585863876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_19
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 743
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2565792c6e984cb4dad4bd7e870d559c
+      internalID: -1113682235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 515
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e2ae6b21ac8c94ba75085b6ac12c8f
+      internalID: 1609620061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 515
+        width: 159
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1359a6fa777c1fd4390f66cd1f03492c
+      internalID: 1937854764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 515
+        width: 163
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac21b2ca8473ff4aae8f9daf481809f
+      internalID: -938092249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_23
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 516
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dbc41ff48a50c498bca3e05d6bd25c
+      internalID: 1397693252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_24
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 514
+        width: 160
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a06ca09677c8048936aede68141832
+      internalID: -339123292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_25
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 515
+        width: 161
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4341fb0616a27044d9c22c234a418f4c
+      internalID: 1995783880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_26
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 515
+        width: 161
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f683fab13baf3d1449d9b6743da39dcf
+      internalID: -1186783961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_27
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 515
+        width: 160
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c0411e5d444f544966b4dabbc71169
+      internalID: -1558576889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_28
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 515
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674a95f160317a5499076fbb95109653
+      internalID: -226610220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_29
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 515
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3272876b0df523d41ac165a0849e95a2
+      internalID: 636726090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 295
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5a74b9480cc47458a9fdce950a06db
+      internalID: -234392458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 295
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6369798679a7a2f4685c122155ad4910
+      internalID: -107022814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_32
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 295
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171435c95dc59b74488f021cac221f43
+      internalID: 1843317270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_33
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 295
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609a6ef4e675d0f4c974901e861a125a
+      internalID: 2007444324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_34
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 295
+        width: 161
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0685134ce7409aa49bbc008ac606d84f
+      internalID: -1684756897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_35
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 295
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb776b5731f2f9409d8e1f8dd160469
+      internalID: -1831973004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_36
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 296
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ef1d024dc881e4f9a52666d2741251
+      internalID: -157851781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_37
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 296
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97826b229b3281e468d0b5beef69d3ea
+      internalID: 1011396124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_38
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 295
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74f54433a1e9ca43a2cbfffcfa5842d
+      internalID: -1085444831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_39
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 295
+        width: 159
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6759788e7039a7c498ab57f302d08eea
+      internalID: 1694456732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 162
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b52c1c24a8c064f97b23fb7e7927dc
+      internalID: 1749820320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_41
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 75
+        width: 161
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a66346152e4a545ab15b394bf416dd
+      internalID: -1836062423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 74
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15506e4222cecba43961e6961b44d689
+      internalID: 32745617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_43
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 75
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e7583f5f052744292b6feb55ce8c13
+      internalID: -184547985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_44
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 75
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293c3e6f389989e49a0144da73353760
+      internalID: 1490061563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_45
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 75
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c71ba2f5fa0c754c88ed06c48a66295
+      internalID: 1972595623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_46
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 76
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3df8df0e79327c4b8c69dce7cf43feb
+      internalID: -1892170992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_47
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 75
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383cb2c003b5a9b4d86f4e1c1cc50c5e
+      internalID: -1080054737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_48
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 76
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa41f2e51a9e58d49b9b358f9cb8d85e
+      internalID: -593436850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Helmets_49
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 75
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c64287f85d964049975f5979424428c
+      internalID: 248134126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e78392a870b47f84aa34cfb04446837b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RPG-Helmets_0: 1779652413
+      RPG-Helmets_1: 1919345330
+      RPG-Helmets_10: -359147073
+      RPG-Helmets_11: -355201983
+      RPG-Helmets_12: 681642493
+      RPG-Helmets_13: 1800758622
+      RPG-Helmets_14: 149228947
+      RPG-Helmets_15: 1667265065
+      RPG-Helmets_16: -1689534808
+      RPG-Helmets_17: 1774925624
+      RPG-Helmets_18: -585863876
+      RPG-Helmets_19: -1113682235
+      RPG-Helmets_2: -1913632473
+      RPG-Helmets_20: 1609620061
+      RPG-Helmets_21: 1937854764
+      RPG-Helmets_22: -938092249
+      RPG-Helmets_23: 1397693252
+      RPG-Helmets_24: -339123292
+      RPG-Helmets_25: 1995783880
+      RPG-Helmets_26: -1186783961
+      RPG-Helmets_27: -1558576889
+      RPG-Helmets_28: -226610220
+      RPG-Helmets_29: 636726090
+      RPG-Helmets_3: -369152622
+      RPG-Helmets_30: -234392458
+      RPG-Helmets_31: -107022814
+      RPG-Helmets_32: 1843317270
+      RPG-Helmets_33: 2007444324
+      RPG-Helmets_34: -1684756897
+      RPG-Helmets_35: -1831973004
+      RPG-Helmets_36: -157851781
+      RPG-Helmets_37: 1011396124
+      RPG-Helmets_38: -1085444831
+      RPG-Helmets_39: 1694456732
+      RPG-Helmets_4: 559306391
+      RPG-Helmets_40: 1749820320
+      RPG-Helmets_41: -1836062423
+      RPG-Helmets_42: 32745617
+      RPG-Helmets_43: -184547985
+      RPG-Helmets_44: 1490061563
+      RPG-Helmets_45: 1972595623
+      RPG-Helmets_46: -1892170992
+      RPG-Helmets_47: -1080054737
+      RPG-Helmets_48: -593436850
+      RPG-Helmets_49: 248134126
+      RPG-Helmets_5: -1807421354
+      RPG-Helmets_6: 1167868043
+      RPG-Helmets_7: 1199393885
+      RPG-Helmets_8: 1250771996
+      RPG-Helmets_9: -464811421
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

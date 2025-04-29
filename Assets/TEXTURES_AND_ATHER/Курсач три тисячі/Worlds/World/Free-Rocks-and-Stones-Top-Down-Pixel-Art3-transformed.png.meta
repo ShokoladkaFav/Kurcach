@@ -1,0 +1,1117 @@
+fileFormatVersion: 2
+guid: 31743fee870d37f4885ab6e034b053ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5687164327197303057
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_0
+  - first:
+      213: -5888310337081026774
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_1
+  - first:
+      213: 1117990893530352863
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_2
+  - first:
+      213: 2118533347623880655
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_3
+  - first:
+      213: -7958406518764905990
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_4
+  - first:
+      213: 7400624179927315942
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_5
+  - first:
+      213: -1187738415489719159
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_6
+  - first:
+      213: 2936422812861979281
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_7
+  - first:
+      213: -1703585255344292455
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_8
+  - first:
+      213: 6151198251145170841
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_9
+  - first:
+      213: -1455352116417079080
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_10
+  - first:
+      213: -1088674954593730426
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_11
+  - first:
+      213: 2970634519989889779
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_12
+  - first:
+      213: 8628287300216651074
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_13
+  - first:
+      213: 4191094487497155076
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_14
+  - first:
+      213: -2362825630303882784
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_15
+  - first:
+      213: 774521302329118319
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_16
+  - first:
+      213: 6798275656407038495
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_17
+  - first:
+      213: -9060039678256209283
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_18
+  - first:
+      213: 286501442656184840
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_19
+  - first:
+      213: -14172648288669826
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_20
+  - first:
+      213: -6695616715390215689
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_21
+  - first:
+      213: -2116716136603672171
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_22
+  - first:
+      213: -6805787843017820079
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_23
+  - first:
+      213: 2604875146165888515
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_24
+  - first:
+      213: -2601465100087483524
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_25
+  - first:
+      213: 702365412846744255
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_26
+  - first:
+      213: 8720302074614526277
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_27
+  - first:
+      213: 2294385499966896782
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_28
+  - first:
+      213: -7372961929886410041
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_29
+  - first:
+      213: 5598158531588472867
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_30
+  - first:
+      213: -6823736074953383652
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_31
+  - first:
+      213: -1137096953257340657
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_32
+  - first:
+      213: 6408883494337974698
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_33
+  - first:
+      213: -8879856511354417225
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_34
+  - first:
+      213: 4662250108091193153
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_35
+  - first:
+      213: 2937064152404695161
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_36
+  - first:
+      213: 7698555958016062617
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_37
+  - first:
+      213: -405033642428353849
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_38
+  - first:
+      213: 2578655283663922148
+    second: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 697
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee91222d222311b0800000000000000
+      internalID: -5687164327197303057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 706
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27560f22f4884ea0800000000000000
+      internalID: -5888310337081026774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 718
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc8ff65bc6e38f00800000000000000
+      internalID: 1117990893530352863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 724
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7c0fdeada866d10800000000000000
+      internalID: 2118533347623880655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_4
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 733
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af95dd6cf6f0e8190800000000000000
+      internalID: -7958406518764905990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_5
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 691
+        width: 144
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5fbb04b7c44b660800000000000000
+      internalID: 7400624179927315942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_6
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 697
+        width: 110
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98466aa343e448fe0800000000000000
+      internalID: -1187738415489719159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_7
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 720
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19addfe8df440c820800000000000000
+      internalID: 2936422812861979281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_8
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 725
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d3c9a7c36ab58e0800000000000000
+      internalID: -1703585255344292455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_9
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 738
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f038e08327d5550800000000000000
+      internalID: 6151198251145170841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 494
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8d8ddf5fc8dcbe0800000000000000
+      internalID: -1455352116417079080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 509
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680839795ef34e0f0800000000000000
+      internalID: -1088674954593730426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 519
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faa2895b50d93920800000000000000
+      internalID: 2970634519989889779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_13
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 528
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d7d6db595ddb770800000000000000
+      internalID: 8628287300216651074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_14
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 532
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402ad532b32c92a30800000000000000
+      internalID: 4191094487497155076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_15
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 496
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e17c87ab9e853fd0800000000000000
+      internalID: -2362825630303882784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_16
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 507
+        width: 110
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ecc485507afba00800000000000000
+      internalID: 774521302329118319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_17
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 523
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ab351d0b3585e50800000000000000
+      internalID: 6798275656407038495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_18
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 526
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72289e2ae5444280800000000000000
+      internalID: -9060039678256209283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_19
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 539
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aa82d4b8bd9f300800000000000000
+      internalID: 286501442656184840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 276
+        width: 145
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f2a3d2d06adcff0800000000000000
+      internalID: -14172648288669826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_21
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 291
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f99ffe72146413a0800000000000000
+      internalID: -6695616715390215689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 303
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591a66b73e9ef92e0800000000000000
+      internalID: -2116716136603672171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 312
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1583040f30cfc81a0800000000000000
+      internalID: -6805787843017820079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_24
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 318
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306267be420662420800000000000000
+      internalID: 2604875146165888515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_25
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 288
+        width: 134
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73a5bd464db5ebd0800000000000000
+      internalID: -2601465100087483524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_26
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 300
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb230472f9d4fb900800000000000000
+      internalID: 702365412846744255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_27
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 317
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5413083e88cb40970800000000000000
+      internalID: 8720302074614526277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_28
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 320
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a755fb47b47df10800000000000000
+      internalID: 2294385499966896782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_29
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 325
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca54aa303afda990800000000000000
+      internalID: -7372961929886410041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 148
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32047af2687a0bd40800000000000000
+      internalID: 5598158531588472867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_31
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 85
+        width: 121
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11a26b81383d41a0800000000000000
+      internalID: -6823736074953383652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 99
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01dae978583830f0800000000000000
+      internalID: -1137096953257340657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_33
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 103
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa111e6159de0f850800000000000000
+      internalID: 6408883494337974698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_34
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 111
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfc748ec8964c480800000000000000
+      internalID: -8879856511354417225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_35
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 64
+        width: 148
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1475dca85c3a3b040800000000000000
+      internalID: 4662250108091193153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_36
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 73
+        width: 121
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9789d9e094c82c820800000000000000
+      internalID: 2937064152404695161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_37
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 98
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994b309ead3c6da60800000000000000
+      internalID: 7698555958016062617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_38
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 101
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2b9f45c08016af0800000000000000
+      internalID: -405033642428353849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Rocks-and-Stones-Top-Down-Pixel-Art3-transformed_39
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 115
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3e8f4715939c320800000000000000
+      internalID: 2578655283663922148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

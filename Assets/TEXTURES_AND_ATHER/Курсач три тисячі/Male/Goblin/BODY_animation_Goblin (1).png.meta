@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 4f8ec339bdbe0e247b84f85455097da1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 559974368252120075
+    second: BODY_animation_Goblin (1)_0
+  - first:
+      213: 5250135371790277852
+    second: BODY_animation_Goblin (1)_1
+  - first:
+      213: 5289065683416945452
+    second: BODY_animation_Goblin (1)_2
+  - first:
+      213: -4630856679985752334
+    second: BODY_animation_Goblin (1)_3
+  - first:
+      213: 8025352819389533043
+    second: BODY_animation_Goblin (1)_4
+  - first:
+      213: 5285097621634219684
+    second: BODY_animation_Goblin (1)_5
+  - first:
+      213: 259202870048819453
+    second: BODY_animation_Goblin (1)_6
+  - first:
+      213: -1018901917649632408
+    second: BODY_animation_Goblin (1)_7
+  - first:
+      213: -672213734798961097
+    second: BODY_animation_Goblin (1)_8
+  - first:
+      213: -5984629156954260634
+    second: BODY_animation_Goblin (1)_9
+  - first:
+      213: -3429644503336415586
+    second: BODY_animation_Goblin (1)_10
+  - first:
+      213: 5683077283954524556
+    second: BODY_animation_Goblin (1)_11
+  - first:
+      213: 8968684553783100297
+    second: BODY_animation_Goblin (1)_12
+  - first:
+      213: -6395296471146354171
+    second: BODY_animation_Goblin (1)_13
+  - first:
+      213: 4350002929370528835
+    second: BODY_animation_Goblin (1)_14
+  - first:
+      213: 8160503488860847855
+    second: BODY_animation_Goblin (1)_15
+  - first:
+      213: -8944785709587695686
+    second: BODY_animation_Goblin (1)_16
+  - first:
+      213: 7570127517451691551
+    second: BODY_animation_Goblin (1)_17
+  - first:
+      213: 1674996619622270420
+    second: BODY_animation_Goblin (1)_18
+  - first:
+      213: -6130460676270596105
+    second: BODY_animation_Goblin (1)_19
+  - first:
+      213: 8033695639186284415
+    second: BODY_animation_Goblin (1)_20
+  - first:
+      213: -6956022407676424631
+    second: BODY_animation_Goblin (1)_21
+  - first:
+      213: 5319148595191090012
+    second: BODY_animation_Goblin (1)_22
+  - first:
+      213: -4609114669468442072
+    second: BODY_animation_Goblin (1)_23
+  - first:
+      213: 8138177019902632503
+    second: BODY_animation_Goblin (1)_24
+  - first:
+      213: -6893886624348357471
+    second: BODY_animation_Goblin (1)_25
+  - first:
+      213: -8568753200586262568
+    second: BODY_animation_Goblin (1)_26
+  - first:
+      213: 6976118567924733441
+    second: BODY_animation_Goblin (1)_27
+  - first:
+      213: -9031190101172086430
+    second: BODY_animation_Goblin (1)_28
+  - first:
+      213: 6180363093339130955
+    second: BODY_animation_Goblin (1)_29
+  - first:
+      213: 5529819023051562503
+    second: BODY_animation_Goblin (1)_30
+  - first:
+      213: -9038928991139263851
+    second: BODY_animation_Goblin (1)_31
+  - first:
+      213: 6387808821567982481
+    second: BODY_animation_Goblin (1)_32
+  - first:
+      213: -4002312530391290856
+    second: BODY_animation_Goblin (1)_33
+  - first:
+      213: 2466935425509835092
+    second: BODY_animation_Goblin (1)_34
+  - first:
+      213: -6133174077100376633
+    second: BODY_animation_Goblin (1)_35
+  - first:
+      213: 9216707360033047124
+    second: BODY_animation_Goblin (1)_36
+  - first:
+      213: 4216813262402620661
+    second: BODY_animation_Goblin (1)_37
+  - first:
+      213: 99512814997928157
+    second: BODY_animation_Goblin (1)_38
+  - first:
+      213: 662606450834057854
+    second: BODY_animation_Goblin (1)_39
+  - first:
+      213: -3903171633561198978
+    second: BODY_animation_Goblin (1)_40
+  - first:
+      213: -605665769919261518
+    second: BODY_animation_Goblin (1)_41
+  - first:
+      213: 3568714262721262754
+    second: BODY_animation_Goblin (1)_42
+  - first:
+      213: 741078656119576017
+    second: BODY_animation_Goblin (1)_43
+  - first:
+      213: 1497759175070802182
+    second: BODY_animation_Goblin (1)_44
+  - first:
+      213: 5565038045139425644
+    second: BODY_animation_Goblin (1)_45
+  - first:
+      213: 1808830296755900334
+    second: BODY_animation_Goblin (1)_46
+  - first:
+      213: 5821421107949097129
+    second: BODY_animation_Goblin (1)_47
+  - first:
+      213: -1792420919519729159
+    second: BODY_animation_Goblin (1)_48
+  - first:
+      213: 3950668460994723094
+    second: BODY_animation_Goblin (1)_49
+  - first:
+      213: -4359917375636390270
+    second: BODY_animation_Goblin (1)_50
+  - first:
+      213: -6787830642926279427
+    second: BODY_animation_Goblin (1)_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 193
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ccdf698bd65c700800000000000000
+      internalID: 559974368252120075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcd542ed4a3cd840800000000000000
+      internalID: 5250135371790277852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2396c56739866940800000000000000
+      internalID: 5289065683416945452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f654b78264ebbfb0800000000000000
+      internalID: -4630856679985752334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 191
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b84ec7ed7cf5f60800000000000000
+      internalID: 8025352819389533043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aef4c40940785940800000000000000
+      internalID: 5285097621634219684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8850213afd89300800000000000000
+      internalID: 259202870048819453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 191
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8638781ba122cd1f0800000000000000
+      internalID: -1018901917649632408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 191
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7365b247b21dba6f0800000000000000
+      internalID: -672213734798961097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 191
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bbb4b5d7352fca0800000000000000
+      internalID: -5984629156954260634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e03c8ce747760d0800000000000000
+      internalID: -3429644503336415586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_11
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c818335fda85ede40800000000000000
+      internalID: 5683077283954524556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_12
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98346c2651b277c70800000000000000
+      internalID: 8968684553783100297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 129
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a23044eb75f37a0800000000000000
+      internalID: -6395296471146354171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 129
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cf901fd905e5c30800000000000000
+      internalID: 4350002929370528835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 129
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feef2e9dfaeef3170800000000000000
+      internalID: 8160503488860847855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 129
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7f804e9ccbdd380800000000000000
+      internalID: -8944785709587695686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 129
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f162e1e6ede7e0960800000000000000
+      internalID: 7570127517451691551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 129
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5c0901d88ce3710800000000000000
+      internalID: 1674996619622270420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 129
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffd369de7a3ceaa0800000000000000
+      internalID: -6130460676270596105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 129
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f9d479e9b6d7f60800000000000000
+      internalID: 8033695639186284415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_21
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 129
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e0acc897e377f90800000000000000
+      internalID: -6956022407676424631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 129
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b02eb177961d940800000000000000
+      internalID: 5319148595191090012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_23
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 129
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822aa45d0a22900c0800000000000000
+      internalID: -4609114669468442072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_24
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 129
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7322b86b1ec90f070800000000000000
+      internalID: 8138177019902632503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_25
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 129
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac36e9f3aef350a0800000000000000
+      internalID: -6893886624348357471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7701ffc5ca51980800000000000000
+      internalID: -8568753200586262568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106192060e620d060800000000000000
+      internalID: 6976118567924733441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2691d98c374caa280800000000000000
+      internalID: -9031190101172086430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cc9690d7f05c550800000000000000
+      internalID: 6180363093339130955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e9f2d6a1dddbc40800000000000000
+      internalID: 5529819023051562503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_31
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a0a2d09f54f8280800000000000000
+      internalID: -9038928991139263851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_32
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b8aa6774e06a850800000000000000
+      internalID: 6387808821567982481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_33
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81caee175fde478c0800000000000000
+      internalID: -4002312530391290856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_34
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4514759f2b05c3220800000000000000
+      internalID: 2466935425509835092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_35
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd3cccfba692eaa0800000000000000
+      internalID: -6133174077100376633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_36
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4528f71038258ef70800000000000000
+      internalID: 9216707360033047124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_37
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc0aad0251258a30800000000000000
+      internalID: 4216813262402620661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_38
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8fc84c06a816100800000000000000
+      internalID: 99512814997928157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_39
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7aa8df6e0d023900800000000000000
+      internalID: 662606450834057854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e1434441625d9c0800000000000000
+      internalID: -3903171633561198978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b45953f03e3897f0800000000000000
+      internalID: -605665769919261518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4fe5ec6be968130800000000000000
+      internalID: 3568714262721262754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d591a08c17d84a00800000000000000
+      internalID: 741078656119576017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6016d25c80c19c410800000000000000
+      internalID: 1497759175070802182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_45
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69d1120e9cfa3d40800000000000000
+      internalID: 5565038045139425644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf891142914a1910800000000000000
+      internalID: 1808830296755900334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_47
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0544b87a7d9c050800000000000000
+      internalID: 5821421107949097129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_48
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f92c0c9baa0027e0800000000000000
+      internalID: -1792420919519729159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_49
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dfde2a80893d630800000000000000
+      internalID: 3950668460994723094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_50
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eb3272f367e73c0800000000000000
+      internalID: -4359917375636390270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_Goblin (1)_51
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df42ed46ef7ccc1a0800000000000000
+      internalID: -6787830642926279427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

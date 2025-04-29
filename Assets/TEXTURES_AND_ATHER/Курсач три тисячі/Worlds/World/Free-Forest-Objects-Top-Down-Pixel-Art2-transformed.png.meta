@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: d4de81c84a65db246a150ae3322d6270
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7268040511387072963
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_0
+  - first:
+      213: 3620280899682073780
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_1
+  - first:
+      213: -4523112243650694074
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_2
+  - first:
+      213: 1305323208744456288
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_3
+  - first:
+      213: -1904747593208239404
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_4
+  - first:
+      213: 6408527056036209553
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_5
+  - first:
+      213: 6795762808467109555
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_6
+  - first:
+      213: -1877775741785132738
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_7
+  - first:
+      213: -2893188633977353620
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_8
+  - first:
+      213: -4505639945532436507
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_9
+  - first:
+      213: -117626337795227592
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_10
+  - first:
+      213: -6969362040027535009
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_11
+  - first:
+      213: -4087931187329683086
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_12
+  - first:
+      213: 4846265841920666916
+    second: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 504
+        width: 374
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9ff5e56544dd460800000000000000
+      internalID: 7268040511387072963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 557
+        width: 440
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc7ea41c42dd3230800000000000000
+      internalID: 3620280899682073780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_2
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 558
+        width: 288
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644fafdf06daa31c0800000000000000
+      internalID: -4523112243650694074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 222
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060594eda807d1210800000000000000
+      internalID: 1305323208744456288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 315
+        width: 151
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daea00e72af095e0800000000000000
+      internalID: -1904747593208239404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_5
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 314
+        width: 106
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193a4845769afe850800000000000000
+      internalID: 6408527056036209553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 314
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b63e70d4466f4e50800000000000000
+      internalID: 6795762808467109555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_7
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 314
+        width: 180
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e313d0769ecc0f5e0800000000000000
+      internalID: -1877775741785132738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_8
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 50
+        width: 204
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a0593244459d7d0800000000000000
+      internalID: -2893188633977353620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_9
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 46
+        width: 150
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef8ab86750c871c0800000000000000
+      internalID: -4505639945532436507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_10
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 52
+        width: 123
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8304c7f087b1e5ef0800000000000000
+      internalID: -117626337795227592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_11
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 50
+        width: 160
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59211d562ad74f90800000000000000
+      internalID: -6969362040027535009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_12
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 47
+        width: 107
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27139f07e30c447c0800000000000000
+      internalID: -4087931187329683086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Forest-Objects-Top-Down-Pixel-Art2-transformed_13
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 46
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d6aca4b15614340800000000000000
+      internalID: 4846265841920666916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

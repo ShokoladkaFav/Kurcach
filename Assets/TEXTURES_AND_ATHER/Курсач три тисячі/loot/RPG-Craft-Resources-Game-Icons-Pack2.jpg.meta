@@ -1,0 +1,1271 @@
+fileFormatVersion: 2
+guid: f99f49af6ec75924f9d1fb088b395786
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8525864209908407732
+    second: RPG-Craft-Resources-Game-Icons-Pack2_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 737
+        width: 123
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a6fb003ed38994d8681ee69ab7172c
+      internalID: 2118541277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 738
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570517d03bcce854e9a1d7b7c0504841
+      internalID: -112005768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 737
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3364f044e6f6624cbf950f335d935ad
+      internalID: 1572254903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 735
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a63d54ab6be92c46a866519a0b2eed5
+      internalID: -670113893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 736
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac12573fabdcff4a8293d05aa9104e7
+      internalID: 104203646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_5
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 737
+        width: 130
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3d8ea48fc1b904c886b77bd6f28250
+      internalID: 1130628698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_6
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 737
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de75121e34591a2449fc71899a920cf6
+      internalID: 1993804663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_7
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 736
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e10e2c34eb36834b9f32a5786a3c586
+      internalID: 1808606061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_8
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 737
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20eeac657ad1134e986a3cea7848364
+      internalID: -1663093237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_9
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 737
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077496a5743757848953ea150835b537
+      internalID: -1247583881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 576
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f77f7e1468854e86a5a83c22d731a
+      internalID: -247061001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 576
+        width: 128
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb78aee2978ead64f941e689ec5bc7e4
+      internalID: -958213614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_12
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 576
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0d6d92d7ad51843b0cdd009370fa54
+      internalID: 1365816263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 576
+        width: 127
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375bfd437d899ba4f89e1818f711e898
+      internalID: -591265220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 576
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41969712d79a84e82410756d312bfb
+      internalID: 415440272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 130
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85d9e46d1f14f14ea6ddcfb0b5e71d0
+      internalID: -2043266382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_16
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 576
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2090553ca30ad83408b003040d146895
+      internalID: -1346885008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_17
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 576
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e05a6d55faa0ae49991b47c3058e825
+      internalID: 1630286595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_18
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 576
+        width: 130
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803778027b25b294c97ba9e07430f658
+      internalID: -1704631100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_19
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 576
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22850ffe3b114304e8dc73fdab618d96
+      internalID: 1672690437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 414
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafdeb74e1533a649ac0c7c991d1eed8
+      internalID: 1300195139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 415
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f86fcb1167cc82488729bb7556e62d4
+      internalID: 1905531332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_22
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 415
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2051f2c9185917847a149b71ad45d241
+      internalID: -1344087998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_23
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 415
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3b4fca370ba884f98c333c4ade4081
+      internalID: -4915727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_24
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 415
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a815e662c5964d48a8381c373bd0a82
+      internalID: -411339592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 415
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2165db21180f1e847ad076d4d7e90b62
+      internalID: 2117567701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_26
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 413
+        width: 127
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae489b765b75a54e95b684874bc7791
+      internalID: 1973669065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_27
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 414
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30a6c0e67dde0f4ea96469e02d50128
+      internalID: -2038007543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_28
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 414
+        width: 125
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9f98caa61c3bc42a113bbab87ad3ca
+      internalID: 546548950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_29
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 413
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cf07b1fccecbb4ca4951b74ddda2d4
+      internalID: 417880708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 254
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad8e50e6edfc7141ae49fa170d19775
+      internalID: -875484330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 254
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108ccd92f0f796b44be9ac52a1a93c18
+      internalID: 431076940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 254
+        width: 129
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6d54f0b54868342962169e354ab9e4
+      internalID: 557735468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 252
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ee003606ce9774387b1456672bc98d
+      internalID: -1138931731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_34
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 252
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae481c8c6ff3d7a439d0337677e5ea7f
+      internalID: -1860048548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 253
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d3d23b69fce4344810ecc92d97a585
+      internalID: -729426292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_36
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 253
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bce0bfbd22bde944b95956690482a81
+      internalID: -279908412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_37
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 254
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4eec52d27d9924c9a0a954e2f791a7
+      internalID: -1146454373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_38
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 252
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb19e26bbd1ad5b419ee1e4786c60c5a
+      internalID: -1371902784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_39
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 253
+        width: 125
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87b20675e1daaf42877214b8bfcd5d3
+      internalID: -2115247932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_40
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 96
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870e8448c0cc24e47a654779a75ac9f6
+      internalID: -1278243139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_41
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 95
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393240c21c85e354fb3ba6b3d897b1d1
+      internalID: 1640934912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 95
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a924a6f37feca32409fa0a33c90dad52
+      internalID: 1429876001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 95
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e74ce098d296ca4680234e4c22fe0cb
+      internalID: -402759822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_44
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 95
+        width: 133
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d602cb1c475f74786a2a74610d7558
+      internalID: 1893558035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 94
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bbba53327533244b8d6ede3c32422d
+      internalID: 40882057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_46
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 94
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47415c5cb35c2f24db9183ecc7818214
+      internalID: -1882815254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_47
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 94
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57802c63ec5642c4da7a7cd26899562f
+      internalID: -1494374016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_48
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 94
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a2088fb3b7f8440b2463ffa57d0184
+      internalID: 1180061975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Craft-Resources-Game-Icons-Pack2_49
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 94
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae5124cf2294ff499d99bdfb51bea0a
+      internalID: -1308756228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bb8a70bc0ba4da445a7eea7a621b0f99
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RPG-Craft-Resources-Game-Icons-Pack2_0: 2118541277
+      RPG-Craft-Resources-Game-Icons-Pack2_1: -112005768
+      RPG-Craft-Resources-Game-Icons-Pack2_10: -247061001
+      RPG-Craft-Resources-Game-Icons-Pack2_11: -958213614
+      RPG-Craft-Resources-Game-Icons-Pack2_12: 1365816263
+      RPG-Craft-Resources-Game-Icons-Pack2_13: -591265220
+      RPG-Craft-Resources-Game-Icons-Pack2_14: 415440272
+      RPG-Craft-Resources-Game-Icons-Pack2_15: -2043266382
+      RPG-Craft-Resources-Game-Icons-Pack2_16: -1346885008
+      RPG-Craft-Resources-Game-Icons-Pack2_17: 1630286595
+      RPG-Craft-Resources-Game-Icons-Pack2_18: -1704631100
+      RPG-Craft-Resources-Game-Icons-Pack2_19: 1672690437
+      RPG-Craft-Resources-Game-Icons-Pack2_2: 1572254903
+      RPG-Craft-Resources-Game-Icons-Pack2_20: 1300195139
+      RPG-Craft-Resources-Game-Icons-Pack2_21: 1905531332
+      RPG-Craft-Resources-Game-Icons-Pack2_22: -1344087998
+      RPG-Craft-Resources-Game-Icons-Pack2_23: -4915727
+      RPG-Craft-Resources-Game-Icons-Pack2_24: -411339592
+      RPG-Craft-Resources-Game-Icons-Pack2_25: 2117567701
+      RPG-Craft-Resources-Game-Icons-Pack2_26: 1973669065
+      RPG-Craft-Resources-Game-Icons-Pack2_27: -2038007543
+      RPG-Craft-Resources-Game-Icons-Pack2_28: 546548950
+      RPG-Craft-Resources-Game-Icons-Pack2_29: 417880708
+      RPG-Craft-Resources-Game-Icons-Pack2_3: -670113893
+      RPG-Craft-Resources-Game-Icons-Pack2_30: -875484330
+      RPG-Craft-Resources-Game-Icons-Pack2_31: 431076940
+      RPG-Craft-Resources-Game-Icons-Pack2_32: 557735468
+      RPG-Craft-Resources-Game-Icons-Pack2_33: -1138931731
+      RPG-Craft-Resources-Game-Icons-Pack2_34: -1860048548
+      RPG-Craft-Resources-Game-Icons-Pack2_35: -729426292
+      RPG-Craft-Resources-Game-Icons-Pack2_36: -279908412
+      RPG-Craft-Resources-Game-Icons-Pack2_37: -1146454373
+      RPG-Craft-Resources-Game-Icons-Pack2_38: -1371902784
+      RPG-Craft-Resources-Game-Icons-Pack2_39: -2115247932
+      RPG-Craft-Resources-Game-Icons-Pack2_4: 104203646
+      RPG-Craft-Resources-Game-Icons-Pack2_40: -1278243139
+      RPG-Craft-Resources-Game-Icons-Pack2_41: 1640934912
+      RPG-Craft-Resources-Game-Icons-Pack2_42: 1429876001
+      RPG-Craft-Resources-Game-Icons-Pack2_43: -402759822
+      RPG-Craft-Resources-Game-Icons-Pack2_44: 1893558035
+      RPG-Craft-Resources-Game-Icons-Pack2_45: 40882057
+      RPG-Craft-Resources-Game-Icons-Pack2_46: -1882815254
+      RPG-Craft-Resources-Game-Icons-Pack2_47: -1494374016
+      RPG-Craft-Resources-Game-Icons-Pack2_48: 1180061975
+      RPG-Craft-Resources-Game-Icons-Pack2_49: -1308756228
+      RPG-Craft-Resources-Game-Icons-Pack2_5: 1130628698
+      RPG-Craft-Resources-Game-Icons-Pack2_50: -1875623380
+      RPG-Craft-Resources-Game-Icons-Pack2_6: 1993804663
+      RPG-Craft-Resources-Game-Icons-Pack2_7: 1808606061
+      RPG-Craft-Resources-Game-Icons-Pack2_8: -1663093237
+      RPG-Craft-Resources-Game-Icons-Pack2_9: -1247583881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

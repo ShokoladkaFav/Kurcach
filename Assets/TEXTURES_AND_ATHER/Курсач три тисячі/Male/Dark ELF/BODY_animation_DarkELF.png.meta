@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: d4da24c39122aef43b509a2fdb747304
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4091755455507175692
+    second: BODY_animation_DarkELF_0
+  - first:
+      213: 8183521918527961609
+    second: BODY_animation_DarkELF_1
+  - first:
+      213: 3157900106195428306
+    second: BODY_animation_DarkELF_2
+  - first:
+      213: 4269190464986220818
+    second: BODY_animation_DarkELF_3
+  - first:
+      213: -3137725287990095720
+    second: BODY_animation_DarkELF_4
+  - first:
+      213: -3799127482357211451
+    second: BODY_animation_DarkELF_5
+  - first:
+      213: -289762486397151751
+    second: BODY_animation_DarkELF_6
+  - first:
+      213: -3071456167880858782
+    second: BODY_animation_DarkELF_7
+  - first:
+      213: -1804327925478241573
+    second: BODY_animation_DarkELF_8
+  - first:
+      213: -1001902420114020544
+    second: BODY_animation_DarkELF_9
+  - first:
+      213: 5535108930644662578
+    second: BODY_animation_DarkELF_10
+  - first:
+      213: -3149239032496595560
+    second: BODY_animation_DarkELF_11
+  - first:
+      213: -4587193065087960929
+    second: BODY_animation_DarkELF_12
+  - first:
+      213: -3402592579100634215
+    second: BODY_animation_DarkELF_13
+  - first:
+      213: 6636567367177914982
+    second: BODY_animation_DarkELF_14
+  - first:
+      213: 1204623477542694924
+    second: BODY_animation_DarkELF_15
+  - first:
+      213: 7870755380347872763
+    second: BODY_animation_DarkELF_16
+  - first:
+      213: -5589433388342387862
+    second: BODY_animation_DarkELF_17
+  - first:
+      213: 7435967499524788754
+    second: BODY_animation_DarkELF_18
+  - first:
+      213: 1742302937632573635
+    second: BODY_animation_DarkELF_19
+  - first:
+      213: -2904595754653572215
+    second: BODY_animation_DarkELF_20
+  - first:
+      213: -86450585317526600
+    second: BODY_animation_DarkELF_21
+  - first:
+      213: 4611165143845882632
+    second: BODY_animation_DarkELF_22
+  - first:
+      213: 3052566882236450355
+    second: BODY_animation_DarkELF_23
+  - first:
+      213: -1763128897154277391
+    second: BODY_animation_DarkELF_24
+  - first:
+      213: 380146692215246027
+    second: BODY_animation_DarkELF_25
+  - first:
+      213: -8350224053701388921
+    second: BODY_animation_DarkELF_26
+  - first:
+      213: 2116003626174756410
+    second: BODY_animation_DarkELF_27
+  - first:
+      213: -1755187766182418357
+    second: BODY_animation_DarkELF_28
+  - first:
+      213: -6821940955320557216
+    second: BODY_animation_DarkELF_29
+  - first:
+      213: 3747006062825981636
+    second: BODY_animation_DarkELF_30
+  - first:
+      213: 3125759733423238005
+    second: BODY_animation_DarkELF_31
+  - first:
+      213: 1109453320534435782
+    second: BODY_animation_DarkELF_32
+  - first:
+      213: -122679776360037767
+    second: BODY_animation_DarkELF_33
+  - first:
+      213: 2718610252609726253
+    second: BODY_animation_DarkELF_34
+  - first:
+      213: -6694574735073559290
+    second: BODY_animation_DarkELF_35
+  - first:
+      213: -6696256554982372382
+    second: BODY_animation_DarkELF_36
+  - first:
+      213: -4352048550407892251
+    second: BODY_animation_DarkELF_37
+  - first:
+      213: -3995345378343588235
+    second: BODY_animation_DarkELF_38
+  - first:
+      213: -1180281483196075217
+    second: BODY_animation_DarkELF_39
+  - first:
+      213: 2975835232536142275
+    second: BODY_animation_DarkELF_40
+  - first:
+      213: 4804248669532382899
+    second: BODY_animation_DarkELF_41
+  - first:
+      213: 4377256961549855385
+    second: BODY_animation_DarkELF_42
+  - first:
+      213: 8776441192036905210
+    second: BODY_animation_DarkELF_43
+  - first:
+      213: -7235937375922873475
+    second: BODY_animation_DarkELF_44
+  - first:
+      213: 2147854230768452385
+    second: BODY_animation_DarkELF_45
+  - first:
+      213: 4650789021135707451
+    second: BODY_animation_DarkELF_46
+  - first:
+      213: -7550065514415760395
+    second: BODY_animation_DarkELF_47
+  - first:
+      213: 8665511927365735339
+    second: BODY_animation_DarkELF_48
+  - first:
+      213: -527867469140256110
+    second: BODY_animation_DarkELF_49
+  - first:
+      213: 3518034772546069061
+    second: BODY_animation_DarkELF_50
+  - first:
+      213: 1343342273830510139
+    second: BODY_animation_DarkELF_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 193
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f66abe971a2737c0800000000000000
+      internalID: -4091755455507175692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a7b75a3d5b19170800000000000000
+      internalID: 8183521918527961609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d362f15a6d13db20800000000000000
+      internalID: 3157900106195428306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2190df7db163f3b30800000000000000
+      internalID: 4269190464986220818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 191
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8901796997f8474d0800000000000000
+      internalID: -3137725287990095720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce9ca5fea9c64bc0800000000000000
+      internalID: -3799127482357211451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f55019cd8e8afbf0800000000000000
+      internalID: -289762486397151751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 191
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263674a73eeff55d0800000000000000
+      internalID: -3071456167880858782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 191
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda4d8fbf4db5f6e0800000000000000
+      internalID: -1804327925478241573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 191
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047ef75ae078812f0800000000000000
+      internalID: -1001902420114020544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239da240f38a0dc40800000000000000
+      internalID: 5535108930644662578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_11
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dde3b09c7ab44d0800000000000000
+      internalID: -3149239032496595560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_12
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 191
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98fb4716340750c0800000000000000
+      internalID: -4587193065087960929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 129
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9939357b31097c0d0800000000000000
+      internalID: -3402592579100634215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 129
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ac690cbd2d91c50800000000000000
+      internalID: 6636567367177914982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 129
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c003703abaea7b010800000000000000
+      internalID: 1204623477542694924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 129
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf521af315a8a3d60800000000000000
+      internalID: 7870755380347872763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 129
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bd42882f75e62b0800000000000000
+      internalID: -5589433388342387862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 129
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212568a1b0dd13760800000000000000
+      internalID: 7435967499524788754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 129
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c885b86a47ed2810800000000000000
+      internalID: 1742302937632573635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 129
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98324c3ec8dc0b7d0800000000000000
+      internalID: -2904595754653572215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_21
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 129
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3368396addccef0800000000000000
+      internalID: -86450585317526600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 129
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bc89f64462eff30800000000000000
+      internalID: 4611165143845882632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_23
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 129
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33643dcf765ec5a20800000000000000
+      internalID: 3052566882236450355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_24
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 129
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff94e70c9b1887e0800000000000000
+      internalID: -1763128897154277391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_25
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 129
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc8708076d864500800000000000000
+      internalID: 380146692215246027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785d43ce67b0e1c80800000000000000
+      internalID: -8350224053701388921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36b591461e8d5d10800000000000000
+      internalID: 2116003626174756410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48e59aa60254a7e0800000000000000
+      internalID: -1755187766182418357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061ed6768d89351a0800000000000000
+      internalID: -6821940955320557216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c64af1692a000430800000000000000
+      internalID: 3747006062825981636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_31
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b69e3aaede06b20800000000000000
+      internalID: 3125759733423238005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_32
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c72559bae1956f00800000000000000
+      internalID: 1109453320534435782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_33
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9728fe4b4672c4ef0800000000000000
+      internalID: -122679776360037767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_34
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27a985fe917ab520800000000000000
+      internalID: 2718610252609726253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_35
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60db2a17fb71813a0800000000000000
+      internalID: -6694574735073559290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_36
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb056b342e1213a0800000000000000
+      internalID: -6696256554982372382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_37
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e21fabc6ea6a93c0800000000000000
+      internalID: -4352048550407892251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_38
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ee4d0fb8ead88c0800000000000000
+      internalID: -3995345378343588235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_39
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2370239e3cce9fe0800000000000000
+      internalID: -1180281483196075217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1a869906a4c4920800000000000000
+      internalID: 2975835232536142275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6ee1006be1ca240800000000000000
+      internalID: 4804248669532382899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ae8cbc3042fbc30800000000000000
+      internalID: 4377256961549855385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0377bb3ce2cc970800000000000000
+      internalID: 8776441192036905210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b15235b49c49b90800000000000000
+      internalID: -7235937375922873475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_45
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12306460b06becd10800000000000000
+      internalID: 2147854230768452385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d941a49fbea8040800000000000000
+      internalID: 4650789021135707451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_47
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb5256aa67c83790800000000000000
+      internalID: -7550065514415760395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_48
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba39b83af25124870800000000000000
+      internalID: 8665511927365735339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_49
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a19656553aca8f0800000000000000
+      internalID: -527867469140256110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_50
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542a41d7cf192d030800000000000000
+      internalID: 3518034772546069061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_animation_DarkELF_51
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ede634ea284a210800000000000000
+      internalID: 1343342273830510139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
